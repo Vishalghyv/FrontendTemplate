@@ -14,6 +14,7 @@ function App() {
             <li>Services</li>
             <li>Help</li>
             <li>Contact</li>
+            <li>INIT</li>
           </ul>
         </div>
       </section>
