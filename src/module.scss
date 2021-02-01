@@ -10,10 +10,7 @@ $lightGray: lighten($gray, 30);
 $transitionDuration: .3s;
 $transition: all $transitionDuration ease-in-out;
 
-input
-{
-    display: none;
-}
+
 header p 
 {
     margin-bottom: 0;
