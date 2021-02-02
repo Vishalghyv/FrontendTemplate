@@ -9,10 +9,10 @@ function Header() {
       <div className="header-logo">Company Logo</div>
       <div className="header-links">
         <ul>
-          <li>bout</li>
-          <li>Serdvices</li>
-          <li>Help</li>
-          <li>Contact</li>
+          <li>dsfgj</li>
+          <li>fgdfg</li>
+          <li>fdgdfg</li>
+          <li>fgdfgd</li>
         </ul>
       </div>
     </section>
